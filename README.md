@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dqnger</h1>
 <h3 align="center">A Java developer</h3>
+🏆
 
 - 🔭 I’m currently working on **advancing my skills.**
+
+- 🔭 I have experience with the **Spigot and JDA API**
 
 - 🌱 I’m currently learning **Java and Python**
 
